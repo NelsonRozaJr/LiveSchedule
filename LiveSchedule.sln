@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSchedule.API", "LiveSchedule.API\LiveSchedule.API.csproj", "{32AD183E-462C-45D7-A22D-39BE1FF58AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AD183E-462C-45D7-A22D-39BE1FF58AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AD183E-462C-45D7-A22D-39BE1FF58AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AD183E-462C-45D7-A22D-39BE1FF58AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AD183E-462C-45D7-A22D-39BE1FF58AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77C0D73-5183-4C86-BFF2-6FD94C952340}
+	EndGlobalSection
+EndGlobal
